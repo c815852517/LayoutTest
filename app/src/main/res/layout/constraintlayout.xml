@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+
+    <Button
+        android:layout_width="172dp"
+        android:layout_height="150dp"
+        android:background="#FF0000"
+        android:text="RED"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:layout_width="185dp"
+        android:layout_height="164dp"
+        android:background="#FF6100"
+        android:text="ORANGE"
+        tools:layout_editor_absoluteX="557dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <Button
+        android:layout_width="174dp"
+        android:layout_height="164dp"
+        android:background="#00FF00"
+        android:text="GREEN"
+        tools:layout_editor_absoluteX="345dp"
+        tools:layout_editor_absoluteY="249dp" />
+
+    <Button
+        android:layout_width="168dp"
+        android:layout_height="161dp"
+        android:background="#0000FF"
+        android:text="BLUE"
+        tools:layout_editor_absoluteX="568dp"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <Button
+        android:layout_width="161dp"
+        android:layout_height="161dp"
+        android:background="#A020F0"
+        android:text="INDIGO"
+        tools:layout_editor_absoluteX="789dp"
+        tools:layout_editor_absoluteY="252dp" />
+
+    <Button
+        android:layout_width="154dp"
+        android:layout_height="153dp"
+        android:background="#fff000"
+        android:text="YELLOW"
+        tools:layout_editor_absoluteX="1122dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:layout_width="1275dp"
+        android:layout_height="104dp"
+        android:background="#FFC0CB"
+        android:text="VIOLET"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="561dp" />
+</android.support.constraint.ConstraintLayout>

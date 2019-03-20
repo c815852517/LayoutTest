@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### 实验结果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319104735370.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2M4MTU4NTI1MTc=,size_16,color_FFFFFF,t_70)
+![](https://github.com/c815852517/LayoutTest/blob/master/app/src/LinearLayout.png)
 ## 二、利用ConstraintLayout实现如下界面
 源码 `<?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
